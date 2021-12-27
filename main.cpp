@@ -8,6 +8,7 @@ int main()
 
     cout << "Hello world!";
     cout << endl << "updated";
+    cout << endl << "second update";
 
     return 0;
 }
