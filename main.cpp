@@ -7,6 +7,7 @@ int main()
     ios::sync_with_stdio(false); cin.tie(0);
 
     cout << "Hello world!";
+    cout << endl << "updated";
 
     return 0;
 }
